@@ -1,0 +1,33 @@
+header{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 50px;
+}
+.sub-title{
+    font-size: 36px;
+    font-family: 'OTEnjoystoriesBA';
+    color: #F5DF4D;
+    margin-bottom: 20px;
+}
+.title-img{
+    position: absolute;
+}
+.back-img{
+    position: relative;
+}
+.quote-text{
+    font-size: 18px;
+    text-align: center;
+    background: url('../../public/images/quote.png') no-repeat 0 20px / 100%;
+    line-height: 1.7;
+    color: #fff;
+}
+.strong-text{
+    font-size: 20px;
+    font-weight: bold;
+}
